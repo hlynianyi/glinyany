@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladyslav (RU, ENG)
-- 👀 Currently I’m a studying on Hexlet courses [Frontend developer program] - ru.hexlet.io/u/glinyany
+- 👀 Currently I’m a studying on Hexlet courses [Frontend developer program] - <a href="https://ru.hexlet.io/u/glinyany">My Profile</a>
 - 💞️ Open to any job \ trainee offers, wasting all my time coding. :)
 - 🎓 Got a Masters Diploma, Khrakiv National University of Civil Engineering and Architecture. (December 2021)
         Field of Study "Information Tecnologies"
