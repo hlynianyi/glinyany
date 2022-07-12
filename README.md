@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Vladyslav (RU, ENG)
 - 👀 Currently I’m a studying on Hexlet courses [Frontend developer program] - <a href="https://ru.hexlet.io/u/glinyany">My Profile</a>
 - 💞️ Open to any job \ trainee offers, wasting all my time coding. :)
-- 🎓 Got a Masters Diploma, Khrakiv National University of Civil Engineering and Architecture. (December 2021)
-        Field of Study "Information Tecnologies"
-        Program Subject Area "Computer Science"
+<p>- 🎓 Got a Masters Diploma, Khrakiv National University of Civil Engineering and Architecture. (December 2021)
+\n- Field of Study "Information Tecnologies"
+\n- Program Subject Area "Computer Science" </p>
 - 📫 Contact me via:
         glinyany.lie@gmail.com
         Slack: @hlynianyi
