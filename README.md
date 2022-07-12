@@ -7,7 +7,7 @@
 - 📫 Contact me via:<br>
         glinyany.lie@gmail.com<br>
         Slack: @hlynianyi<br>
-        [<a href="[https://ru.hexlet.io/u/glinyany](https://t.me/desoIe)">Telegram</a>](https://t.me/desoIe)
+        https://t.me/desoIe
 
 <!---
 glinyany/glinyany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
