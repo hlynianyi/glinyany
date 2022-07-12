@@ -4,9 +4,9 @@
 - 🎓 Got a Masters Diploma, Khrakiv National University of Civil Engineering and Architecture. (December 2021)<br>
 - 🎓 Field of Study "Information Tecnologies"<br>
 - 🎓 Program Subject Area "Computer Science"
-- 📫 Contact me via:
-        glinyany.lie@gmail.com
-        Slack: @hlynianyi
+- 📫 Contact me via:<br>
+        glinyany.lie@gmail.com<br>
+        Slack: @hlynianyi<br>
         Telegram: t.me/desoIe
 
 <!---
